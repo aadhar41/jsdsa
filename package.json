@@ -1,0 +1,26 @@
+{
+  "name": "jsdsa",
+  "version": "1.0.0",
+  "description": "Javascript DSA Files",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadhar41/jsdsa.git"
+  },
+  "keywords": [
+    "Javascript",
+    "DSA"
+  ],
+  "author": "Aadhar gaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aadhar41/jsdsa/issues"
+  },
+  "homepage": "https://github.com/aadhar41/jsdsa#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
